@@ -19,6 +19,7 @@ Nothing needs installing. Each notebook runs on Colab's free CPU in a few minute
 |---|---|---|---|
 | 1 | Modeling, Inference and Learning | [Watch](https://www.youtube.com/watch?v=aRdgyZ6lJKg) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neural-modules/ai-principles-notebooks/blob/main/01_modeling_inference_and_learning.ipynb) |
 | 2 | Gradients and Backpropagation | [Watch](https://www.youtube.com/watch?v=CYvZmvcKsz4) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neural-modules/ai-principles-notebooks/blob/main/02_gradients_and_backpropagation.ipynb) |
+| 3 | Linear Regression and Gradient Descent | [Watch](https://www.youtube.com/watch?v=i6xu_Kn9omU) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neural-modules/ai-principles-notebooks/blob/main/03_linear_regression_and_gradient_descent.ipynb) |
 
 ## Copyright
 
